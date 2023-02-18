@@ -4,7 +4,7 @@ body{
 
 .top-container{
     height: 100vh;
-    background-image: url("images/pic-crop.jpg");
+    background-image: url("pic-crop.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -28,7 +28,7 @@ body{
 
 .container-3{
     height: 100vh;
-    background-image: url("images/2.jpeg");
+    background-image: url("2.jpeg");
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -60,7 +60,7 @@ body{
 
 .container-5{
     height: 100vh;
-    background-image: url("images/IMG_20230202_102003.jpg");
+    background-image: url("IMG_20230202_102003.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
